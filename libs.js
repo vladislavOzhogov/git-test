@@ -1,7 +1,12 @@
 function addThree(number) {
-    return number + 3
+    return parseInt(number) + 3
 }
 
-export {
-    addThree
+function deductThree(number) {
+    return parseInt(number) - 3
+}
+
+module.exports = {
+    addThree,
+    deductThree
 }
