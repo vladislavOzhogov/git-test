@@ -2,7 +2,7 @@
 git reflog
 
 # Создать ветку из конкретного коммита
-git branch updated-gitignore e22e4b6
+git branch updated-slides 72063b6
 
 # Переключиться на ветку
-git checkout updated-gitignore
+git checkout updated-slides
