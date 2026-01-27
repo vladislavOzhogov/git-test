@@ -1,7 +1,7 @@
-function addThree(number) {
-    return number + 3
+function addFour(number) {
+    return number + 4
 }
 
 export {
-    addThree
+    addFour
 }
