@@ -1,7 +1,7 @@
-function addFour(number) {
-    return number + 4
+function deductFour(number) {
+    return number - 4
 }
 
 export {
-    addFour
+    deductFour
 }
