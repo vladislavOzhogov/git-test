@@ -5,6 +5,7 @@ const prompt = promptSync()
 
 function start() {
     const input = Number(prompt("Здравстуйте, добро пожаловать в программу SumPlus3. Введите ваше число: ").trim())
+
     console.log(addThree(input))
 }
 
