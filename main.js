@@ -6,7 +6,7 @@ const prompt = promptSync()
 function start() {
     const input = Number(prompt("Hello! Welcome to SumPlus3! Enter your sum: ").trim())
 
-    console.log(minusThreeminusThree((input)))
+    console.log(minusThree(input))
 }
 
 start()
